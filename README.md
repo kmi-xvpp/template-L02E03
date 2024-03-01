@@ -1,4 +1,4 @@
-# L05E01: Read points (NamedTuple)
+# L02E03: Read points (NamedTuple)
 Vytvořte modul `points.py` obsahující funkci `read_points(text, separator=";")`. Podobně jako v úkolu [L03E01](https://github.com/kmi-jp/template-L03E01).
 
 Funkce `read_points(text, separator=";")` funguje stejně, jediný rozdíl je, že body namísto slovníkem reprezentujeme třídou `Point` vytvořenou pomoci `NamedTuple` (vlastnosti `x` a `y`).
